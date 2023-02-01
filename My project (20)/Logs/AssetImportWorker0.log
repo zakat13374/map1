@@ -1,0 +1,1222 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19042.1586; Version 2009; 64bit' Language: 'ru' Physical Memory: 16366 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\VK audio\2020.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/User/Documents/map/map1/My project (20)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54917
+Successfully changed project path to: D:/User/Documents/map/map1/My project (20)
+D:/User/Documents/map/map1/My project (20)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 55.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path D:/VK audio/2020.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/User/Documents/map/map1/My project (20)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   30.0.14.9676
+Initialize mono
+Mono path[0] = 'D:/VK audio/2020.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/VK audio/2020.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/VK audio/2020.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56656
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/VK audio/2020.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002508 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.406 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001156 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.506 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 3.212300 ms (FindLiveObjects: 0.317300 ms CreateObjectMapping: 0.078900 ms MarkObjects: 2.686500 ms  DeleteObjects: 0.127900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/karta dkia leo 1/stendleo.fbx
+  artifactKey: Guid(e0fed7560c041e3428a35a176c28743f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/stendleo.fbx using Guid(e0fed7560c041e3428a35a176c28743f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a275ed90cbefdcce62e73ae175056cae') in 1.529832 seconds
+  Import took 1.533336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1187.889310 seconds.
+  path: Assets/karta dkia leo 1/stendleo.fbx
+  artifactKey: Guid(e0fed7560c041e3428a35a176c28743f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/stendleo.fbx using Guid(e0fed7560c041e3428a35a176c28743f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c90e46890dc6943bf083a8db09668ade') in 0.130377 seconds
+  Import took 0.134484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1752.268244 seconds.
+  path: Assets/karta dkia leo 1/2ка/LightingData.asset
+  artifactKey: Guid(240cbf8dc928fbc42ae1ce5676d37ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/2ка/LightingData.asset using Guid(240cbf8dc928fbc42ae1ce5676d37ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb06729141887e6d7f3704408c558b7') in 0.012539 seconds
+  Import took 0.015907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/karta dkia leo 1/2ка/ReflectionProbe-0.exr
+  artifactKey: Guid(f01802e0d84f6234e82cfd6dcedbe5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/2ка/ReflectionProbe-0.exr using Guid(f01802e0d84f6234e82cfd6dcedbe5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e2ee8972715755e3688ea748d90318') in 0.040921 seconds
+  Import took 0.043814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/karta dkia leo 1/2ка/Lightmap-1_comp_light.exr
+  artifactKey: Guid(9666fa4e0f1eea34dbe115f21e9e9097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/2ка/Lightmap-1_comp_light.exr using Guid(9666fa4e0f1eea34dbe115f21e9e9097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63f62532c15ed87e616c83ebe59d5682') in 0.023041 seconds
+  Import took 0.025744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/karta dkia leo 1/2ка/ReflectionProbe-3.exr
+  artifactKey: Guid(d459f34e97da5074295fd2cf5d5834b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/2ка/ReflectionProbe-3.exr using Guid(d459f34e97da5074295fd2cf5d5834b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac50bd444388ef7a42702768b764bf5') in 0.037501 seconds
+  Import took 0.040526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/karta dkia leo 1/2ка/ReflectionProbe-1.exr
+  artifactKey: Guid(211bf81654af379459c270b8e7af48c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/2ка/ReflectionProbe-1.exr using Guid(211bf81654af379459c270b8e7af48c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4277fd2407db244e8c17d6af03e7fb6d') in 0.021095 seconds
+  Import took 0.023986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/karta dkia leo 1/2ка/ReflectionProbe-2.exr
+  artifactKey: Guid(f765490708f1485478ab40d12df64252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/2ка/ReflectionProbe-2.exr using Guid(f765490708f1485478ab40d12df64252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c3c64c7ddc296a78ea58f456679752') in 0.024756 seconds
+  Import took 0.027565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/karta dkia leo 1/2ка/Lightmap-0_comp_light.exr
+  artifactKey: Guid(9682e4aaf398fad46b005ac7bc12b925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/2ка/Lightmap-0_comp_light.exr using Guid(9682e4aaf398fad46b005ac7bc12b925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6712ebb5aa7fe5c40a58e64b5ee63e0') in 0.018160 seconds
+  Import took 0.021012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/karta dkia leo 1/2ка/Lightmap-2_comp_light.exr
+  artifactKey: Guid(7e12bc99273cae14a93ced870cf397f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/2ка/Lightmap-2_comp_light.exr using Guid(7e12bc99273cae14a93ced870cf397f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76df93e69cad3103d741c1e3243e5af7') in 0.016493 seconds
+  Import took 0.019700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.192390 seconds.
+  path: Assets/karta dkia leo 1/dtanleo
+  artifactKey: Guid(f579fed922d12294bb83cfcc50965650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/dtanleo using Guid(f579fed922d12294bb83cfcc50965650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87edca15be143b4ed4815c59bfb9935c') in 0.008844 seconds
+  Import took 0.011865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052918 seconds.
+  path: Assets/karta dkia leo 1/dtanleo/LightingData.asset
+  artifactKey: Guid(fbd7f2d43cd066046bca3d6cfbf9844b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/dtanleo/LightingData.asset using Guid(fbd7f2d43cd066046bca3d6cfbf9844b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8446f07c139306e9410cee5ff39b783') in 0.004009 seconds
+  Import took 0.006909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/karta dkia leo 1/dtanleo/Lightmap-0_comp_light.exr
+  artifactKey: Guid(ead76056974ea9849ae56e5c2b4f72eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/dtanleo/Lightmap-0_comp_light.exr using Guid(ead76056974ea9849ae56e5c2b4f72eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc74abe40fb34f9265317056d07c323') in 0.029681 seconds
+  Import took 0.032764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/karta dkia leo 1/dtanleo/Lightmap-1_comp_shadowmask.png
+  artifactKey: Guid(4da97f4f718babd45a8d3dc59d64471e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/dtanleo/Lightmap-1_comp_shadowmask.png using Guid(4da97f4f718babd45a8d3dc59d64471e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a8ad80cf325865cfc29149c3b4f8c9') in 0.082798 seconds
+  Import took 0.085392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/karta dkia leo 1/dtanleo/ReflectionProbe-0.exr
+  artifactKey: Guid(4f461fcd44c225a48be580375ec0bc3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/dtanleo/ReflectionProbe-0.exr using Guid(4f461fcd44c225a48be580375ec0bc3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b4d18c409adbd0803047279deefc6f') in 0.019174 seconds
+  Import took 0.021901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/karta dkia leo 1/dtanleo/ReflectionProbe-1.exr
+  artifactKey: Guid(53df5f26d62c5a2418724d48868c923d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/dtanleo/ReflectionProbe-1.exr using Guid(53df5f26d62c5a2418724d48868c923d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38bbc3c29ede6c4cbf7363fd025eadf0') in 0.017293 seconds
+  Import took 0.020128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/karta dkia leo 1/dtanleo/Lightmap-1_comp_light.exr
+  artifactKey: Guid(3d3c6c724ed28214eaaeb6046a0d5905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/dtanleo/Lightmap-1_comp_light.exr using Guid(3d3c6c724ed28214eaaeb6046a0d5905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e485459ae2b2ee07004aea8dec8c03c') in 0.014715 seconds
+  Import took 0.017394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/karta dkia leo 1/dtanleo/Lightmap-0_comp_shadowmask.png
+  artifactKey: Guid(279519e71aa6b8b469888ca8110a2545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/dtanleo/Lightmap-0_comp_shadowmask.png using Guid(279519e71aa6b8b469888ca8110a2545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b08178ac63dba4e27f77e2f6bc40fb64') in 0.017701 seconds
+  Import took 0.020392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/karta dkia leo 1/dtanleo/Lightmap-2_comp_light.exr
+  artifactKey: Guid(69a97cf704e7dc044923de42731825b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1/dtanleo/Lightmap-2_comp_light.exr using Guid(69a97cf704e7dc044923de42731825b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c49d109fc7c1856dfa3c96b6bd3b96') in 0.015339 seconds
+  Import took 0.018441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.686137 seconds.
+  path: Assets/украина лет
+  artifactKey: Guid(732ef9cd6ae0f1349ab6c50ccf8b33f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет using Guid(732ef9cd6ae0f1349ab6c50ccf8b33f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3616385db2bd4e1a33f1ad2727e2211') in 0.008955 seconds
+  Import took 0.011780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055930 seconds.
+  path: Assets/украина лет/blue_brick.png
+  artifactKey: Guid(42dbada86fde22549a4e416c73f074bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/blue_brick.png using Guid(42dbada86fde22549a4e416c73f074bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '423297323d81ec97d06ca06c840d02ad') in 0.027160 seconds
+  Import took 0.030000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/украина лет/red_brick.png
+  artifactKey: Guid(7346aaeaa38f9ad41b4e5f720e833167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/red_brick.png using Guid(7346aaeaa38f9ad41b4e5f720e833167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c013c17ff609a5d0439ec5e378c86207') in 0.017662 seconds
+  Import took 0.020346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/украина лет/white_brick.png
+  artifactKey: Guid(764f2e79b3e094841894c24f1ee72914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/white_brick.png using Guid(764f2e79b3e094841894c24f1ee72914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65644ced5fe0d781878c70aba2f850f3') in 0.014218 seconds
+  Import took 0.017187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/украина лет/dduk_уркаинский бимба_AlbedoTransparency.png
+  artifactKey: Guid(1dcb0d189ee8aa14984a4ba584a2b5fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/dduk_уркаинский бимба_AlbedoTransparency.png using Guid(1dcb0d189ee8aa14984a4ba584a2b5fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17650569cffbec837cc7a69fd6805d1') in 0.015866 seconds
+  Import took 0.018709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/украина лет/unввааitled.fbx
+  artifactKey: Guid(91f84ecec07f9674e8a68432d5fe975e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/unввааitled.fbx using Guid(91f84ecec07f9674e8a68432d5fe975e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79a071efc061cf13aae50458a629d75c') in 0.046226 seconds
+  Import took 0.049171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/украина лет/ladder.png
+  artifactKey: Guid(1ee7bf3f2ff858a45a23fd21818f9649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/ladder.png using Guid(1ee7bf3f2ff858a45a23fd21818f9649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '379bc66fd12d74aafb2516acdd1bc953') in 0.014464 seconds
+  Import took 0.017437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/украина лет/Grayscale.png
+  artifactKey: Guid(ad4f316436f4ed04d99a1adfe2942b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/Grayscale.png using Guid(ad4f316436f4ed04d99a1adfe2942b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '238d9f952cc853ed5c1836b9209e5057') in 0.015782 seconds
+  Import took 0.018762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/украина лет/New Material 4.mat
+  artifactKey: Guid(6e2b365df7243874fb416e79698aee39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Material 4.mat using Guid(6e2b365df7243874fb416e79698aee39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16306f33079dccf7f9dab50b873fccb5') in 0.036660 seconds
+  Import took 0.039462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/украина лет/ladder_tall.png
+  artifactKey: Guid(8d309075029af0048b1de6b7af888841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/ladder_tall.png using Guid(8d309075029af0048b1de6b7af888841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6623aebeef0150052300f601044e789d') in 0.013851 seconds
+  Import took 0.016999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/украина лет/New Material 8.mat
+  artifactKey: Guid(55546a90a98a2fc44a5899f65a7214ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Material 8.mat using Guid(55546a90a98a2fc44a5899f65a7214ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31a1420ac15f4ef82a7f3b20de61d006') in 0.016932 seconds
+  Import took 0.019859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/украина лет/green_brick.png
+  artifactKey: Guid(c24c5f5fbb4a4814ca4565687a28991b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/green_brick.png using Guid(c24c5f5fbb4a4814ca4565687a28991b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306c8df5a7959600dfefb7555c5309a8') in 0.015079 seconds
+  Import took 0.018003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/украина лет/map lego.fbx
+  artifactKey: Guid(734a71c43f049a448b35706292f48bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/map lego.fbx using Guid(734a71c43f049a448b35706292f48bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2914575e7aef26e831687f3091122e39') in 0.170855 seconds
+  Import took 0.174232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/украина лет/New Material 2.mat
+  artifactKey: Guid(7553607798e0da44cb9f53acc5eccdf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Material 2.mat using Guid(7553607798e0da44cb9f53acc5eccdf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761cdba8683002a7ff6b7d20c57088d6') in 0.016440 seconds
+  Import took 0.019247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/украина лет/New Material 3.mat
+  artifactKey: Guid(7d0958618610586448dc4403e79aaf12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Material 3.mat using Guid(7d0958618610586448dc4403e79aaf12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e49b5326d917087092471fa87239eb') in 0.016361 seconds
+  Import took 0.019837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/украина лет/New Material.mat
+  artifactKey: Guid(bda95bd3ab279584b9a8d44cdcc2a95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Material.mat using Guid(bda95bd3ab279584b9a8d44cdcc2a95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4dfedd47a00081889bab7b759a24e1c') in 0.016864 seconds
+  Import took 0.019794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/украина лет/New Material 7.mat
+  artifactKey: Guid(28899dcc45adaba408e16f0733b260cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Material 7.mat using Guid(28899dcc45adaba408e16f0733b260cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e8174814b4d5b174f52c526fccfc26c') in 0.016601 seconds
+  Import took 0.019404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/украина лет/unggввtiвввtled.fbx
+  artifactKey: Guid(0d33466f538ee644b8c36d6689b87e89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/unggввtiвввtled.fbx using Guid(0d33466f538ee644b8c36d6689b87e89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66da0607acddf5f9688047d110e6e321') in 0.040161 seconds
+  Import took 0.043297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/украина лет/New Material 1.mat
+  artifactKey: Guid(a1928098646e62d4581be4047f1572d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Material 1.mat using Guid(a1928098646e62d4581be4047f1572d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5afae590334850cfd0ba482e985b023f') in 0.020254 seconds
+  Import took 0.023068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/украина лет/unввtiвввtled.fbx
+  artifactKey: Guid(743369d414adff1428ad8f671481f404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/unввtiвввtled.fbx using Guid(743369d414adff1428ad8f671481f404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe6941ea7323c7b32d635fc0a88bd788') in 0.032792 seconds
+  Import took 0.036157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/украина лет/white_block3d.png
+  artifactKey: Guid(67de4877f5def1d4b8e693443df0960a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/white_block3d.png using Guid(67de4877f5def1d4b8e693443df0960a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25380c481e7bedeb139db46aac2da79b') in 0.016172 seconds
+  Import took 0.018873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/украина лет/New Material 5.mat
+  artifactKey: Guid(fafd5555c76d30d4fbe50dc8ba8cc360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Material 5.mat using Guid(fafd5555c76d30d4fbe50dc8ba8cc360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f69dbcd97f19a574ba3b2b0c07ac93eb') in 0.016641 seconds
+  Import took 0.019183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/украина лет/New Material 6.mat
+  artifactKey: Guid(7532003201956cd4bb97f2479caa2f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Material 6.mat using Guid(7532003201956cd4bb97f2479caa2f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ab4fc1901938e9ad9b0ba2266965c6c') in 0.016460 seconds
+  Import took 0.019362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.134468 seconds.
+  path: Assets/украина лет/yellow_block3d.png
+  artifactKey: Guid(332d9e7d1f53707459d0e1c062faa2b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/yellow_block3d.png using Guid(332d9e7d1f53707459d0e1c062faa2b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d8cbf55a1ee258aa0a44b081172b49') in 0.013186 seconds
+  Import took 0.016165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/украина лет/yellow_brick.png
+  artifactKey: Guid(df1f2c3c336d9b94da429f5cc7aeae98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/yellow_brick.png using Guid(df1f2c3c336d9b94da429f5cc7aeae98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e1aa1c9e01060c4f6c40c3b6f4b036') in 0.014364 seconds
+  Import took 0.016946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.606770 seconds.
+  path: Assets/украина лет/New Scene
+  artifactKey: Guid(c0fd9d247b23dd441aabeac0b58e3fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene using Guid(c0fd9d247b23dd441aabeac0b58e3fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c549c56efcf525dd7f955fc30b3fc1b') in 0.008685 seconds
+  Import took 0.011541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059502 seconds.
+  path: Assets/украина лет/New Scene/LightingData.asset
+  artifactKey: Guid(3ecedb1cca9bfac458fc7cffe4f83bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/LightingData.asset using Guid(3ecedb1cca9bfac458fc7cffe4f83bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3ab20f68840e665be1755fdca23c5f8') in 0.003861 seconds
+  Import took 0.006773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/украина лет/New Scene/ReflectionProbe-0.exr
+  artifactKey: Guid(1d3b0f9c7be5ae0468f8f1af5717424d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/ReflectionProbe-0.exr using Guid(1d3b0f9c7be5ae0468f8f1af5717424d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8b4e5c280271c193fbb88edcd10b64a') in 0.021963 seconds
+  Import took 0.024592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/украина лет/New Scene/Lightmap-1_comp_light.exr
+  artifactKey: Guid(372388ee6306848468e11e6f51b427ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/Lightmap-1_comp_light.exr using Guid(372388ee6306848468e11e6f51b427ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73aa7ffadaeaff6ac9cc6665697b2ae7') in 0.014336 seconds
+  Import took 0.017046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/украина лет/New Scene/Lightmap-2_comp_dir.png
+  artifactKey: Guid(6e340459446070d42a46955348a1ddd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/Lightmap-2_comp_dir.png using Guid(6e340459446070d42a46955348a1ddd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4f21c6f5677d7f35f43056c82b96be') in 0.016102 seconds
+  Import took 0.019237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/украина лет/New Scene/Lightmap-0_comp_dir.png
+  artifactKey: Guid(76a05921056b5264196dea40c47a73ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/Lightmap-0_comp_dir.png using Guid(76a05921056b5264196dea40c47a73ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593d8471a56e5734b8df1117417456e3') in 0.016709 seconds
+  Import took 0.019387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/украина лет/New Scene/Lightmap-3_comp_dir.png
+  artifactKey: Guid(f9be3892b04b2ca4c886757a947856e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/Lightmap-3_comp_dir.png using Guid(f9be3892b04b2ca4c886757a947856e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7fc56a1807aa08e42c817f7768f20aa') in 0.015534 seconds
+  Import took 0.018809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/украина лет/New Scene/ReflectionProbe-1.exr
+  artifactKey: Guid(35bf3b724fd32df43bc1120705951197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/ReflectionProbe-1.exr using Guid(35bf3b724fd32df43bc1120705951197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e00cfa7a1ebc2f82db489a5e6ddb6d') in 0.021995 seconds
+  Import took 0.025012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/украина лет/New Scene/Lightmap-1_comp_dir.png
+  artifactKey: Guid(8c7879efd9111784f990dad0843e7cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/Lightmap-1_comp_dir.png using Guid(8c7879efd9111784f990dad0843e7cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75663b0bc250e7478bb22ff03e1876cc') in 0.015636 seconds
+  Import took 0.018385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/украина лет/New Scene/ReflectionProbe-3.exr
+  artifactKey: Guid(52c62a0203324ea4dbf75da0a7a55677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/ReflectionProbe-3.exr using Guid(52c62a0203324ea4dbf75da0a7a55677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bc912097ac13c5b24171e2d0e68f855') in 0.018116 seconds
+  Import took 0.021108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/украина лет/New Scene/ReflectionProbe-2.exr
+  artifactKey: Guid(c5da1c9ba6bddca42ab28c56faf2705a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/ReflectionProbe-2.exr using Guid(c5da1c9ba6bddca42ab28c56faf2705a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab30d9223f827e11626f852172d175a') in 0.018702 seconds
+  Import took 0.021683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/украина лет/New Scene/Lightmap-3_comp_light.exr
+  artifactKey: Guid(892d98f1067c1b8499b0aa4d7067ea10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/Lightmap-3_comp_light.exr using Guid(892d98f1067c1b8499b0aa4d7067ea10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd537223e7c39b745718f21fac9b3d2') in 0.015258 seconds
+  Import took 0.018121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/украина лет/New Scene/Lightmap-2_comp_light.exr
+  artifactKey: Guid(2d2e946d443d6f44db07aaae3face420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/Lightmap-2_comp_light.exr using Guid(2d2e946d443d6f44db07aaae3face420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '831666194b3ab95e72cfb99a7f9a96a4') in 0.012992 seconds
+  Import took 0.015623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/украина лет/New Scene/Lightmap-0_comp_light.exr
+  artifactKey: Guid(84e9183c5b3db734e9de0bcc39e20f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/Lightmap-0_comp_light.exr using Guid(84e9183c5b3db734e9de0bcc39e20f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8dd0492191f0436163583a244fa94f2') in 0.012917 seconds
+  Import took 0.015647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.939524 seconds.
+  path: Assets/не трогай.unity
+  artifactKey: Guid(ac66b0238584e7b4e94bbc29e916767b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/не трогай.unity using Guid(ac66b0238584e7b4e94bbc29e916767b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d0a45ec04d72b5ad45ae3b32f93385') in 0.009384 seconds
+  Import took 0.012373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.311867 seconds.
+  path: Assets/украина лет.unity
+  artifactKey: Guid(ac66b0238584e7b4e94bbc29e916767b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет.unity using Guid(ac66b0238584e7b4e94bbc29e916767b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91165d2a00d0d0d667d7c4494340a57b') in 0.010473 seconds
+  Import took 0.013686 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001222 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.339 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.3 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1612.
+Total: 2.394800 ms (FindLiveObjects: 0.234100 ms CreateObjectMapping: 0.071100 ms MarkObjects: 2.012900 ms  DeleteObjects: 0.075200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 273.256115 seconds.
+  path: Assets/украина лет/LightingData.asset
+  artifactKey: Guid(18b081343842d784daf9f8c1cb1b08b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/LightingData.asset using Guid(18b081343842d784daf9f8c1cb1b08b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd73ddb1f8ed336a78b13557dd3f8a177') in 0.019142 seconds
+  Import took 0.022111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/украина лет/Lightmap-0_comp_light.exr
+  artifactKey: Guid(89a50b403cb88ce40a80832389de8834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/Lightmap-0_comp_light.exr using Guid(89a50b403cb88ce40a80832389de8834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3bb9930f94b3dda04db9df516a22b66') in 0.048583 seconds
+  Import took 0.051373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/украина лет/Lightmap-3_comp_light.exr
+  artifactKey: Guid(d93490a67132fa54885cca3019cb40b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/Lightmap-3_comp_light.exr using Guid(d93490a67132fa54885cca3019cb40b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ed59e676fb9d0b0894be187ec5bba47') in 0.031689 seconds
+  Import took 0.034770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/украина лет/Lightmap-0_comp_dir.png
+  artifactKey: Guid(f8a046e8caf86b54fbb83627e7b876e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/Lightmap-0_comp_dir.png using Guid(f8a046e8caf86b54fbb83627e7b876e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356860b93a477fd44c46a27bc623a03e') in 0.016036 seconds
+  Import took 0.019168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/украина лет/Lightmap-1_comp_light.exr
+  artifactKey: Guid(4f1380eedc580ce4ea0c762b23749816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/Lightmap-1_comp_light.exr using Guid(4f1380eedc580ce4ea0c762b23749816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0c00578a928c78d7b393abec7e1495') in 0.012975 seconds
+  Import took 0.016080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/украина лет/Lightmap-2_comp_light.exr
+  artifactKey: Guid(05c92918211143b4285d9a3b6bc645ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/Lightmap-2_comp_light.exr using Guid(05c92918211143b4285d9a3b6bc645ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c65d880bce825a007165f8fc2f5808') in 0.015446 seconds
+  Import took 0.018068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/украина лет/Lightmap-2_comp_dir.png
+  artifactKey: Guid(244316eba1a57a64fb209305d1339c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/Lightmap-2_comp_dir.png using Guid(244316eba1a57a64fb209305d1339c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '396b8340974f91fabaab36378c064728') in 0.012896 seconds
+  Import took 0.015668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/украина лет/Lightmap-3_comp_dir.png
+  artifactKey: Guid(66b74ffa4c1624847b55c3c7757436f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/Lightmap-3_comp_dir.png using Guid(66b74ffa4c1624847b55c3c7757436f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43202968f4c8a6be81f80702db9dce8a') in 0.015781 seconds
+  Import took 0.018422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/украина лет/Lightmap-1_comp_dir.png
+  artifactKey: Guid(a7bdfc32a557da64e87ca0a010c0f573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/Lightmap-1_comp_dir.png using Guid(a7bdfc32a557da64e87ca0a010c0f573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fa7b5e1bb4cd5e51a1141fff4fce8b1') in 0.013477 seconds
+  Import took 0.016456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.456913 seconds.
+  path: Assets/украина лет/ReflectionProbe-0.exr
+  artifactKey: Guid(8fae77d4718d8db428167578703fd40e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/ReflectionProbe-0.exr using Guid(8fae77d4718d8db428167578703fd40e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab4b6382bf475f253dac7514b6c6afe') in 0.062292 seconds
+  Import took 0.065187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000634 seconds.
+  path: Assets/украина лет/ReflectionProbe-2.exr
+  artifactKey: Guid(0a40b907a079a034e80eba6f7a6aa36f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/ReflectionProbe-2.exr using Guid(0a40b907a079a034e80eba6f7a6aa36f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9645157d99c39e4b4934ae2ad65eabd') in 0.021495 seconds
+  Import took 0.024282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/украина лет/ReflectionProbe-1.exr
+  artifactKey: Guid(a90fdd737cd5b7648b963b9d2d42436f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/ReflectionProbe-1.exr using Guid(a90fdd737cd5b7648b963b9d2d42436f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e376e1f2087fbd32acd428fb4352727') in 0.020522 seconds
+  Import took 0.023373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/украина лет/ReflectionProbe-3.exr
+  artifactKey: Guid(d2224e4f0752a524793b85a8805d1f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/ReflectionProbe-3.exr using Guid(d2224e4f0752a524793b85a8805d1f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8569aff1fe047d814324aaf1b007d29') in 0.017464 seconds
+  Import took 0.020619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.472319 seconds.
+  path: Assets/украина лет/витнтилятор.controller
+  artifactKey: Guid(9e958342fb070fd40bd21e5db42f836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/витнтилятор.controller using Guid(9e958342fb070fd40bd21e5db42f836e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e44eda763d3384dd02e8f0ea58072fa2') in 0.014664 seconds
+  Import took 0.017567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.599393 seconds.
+  path: Assets/украина лет/New Scene/dd.controller
+  artifactKey: Guid(b3598631f23ef6e429e0cb6795abb1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/dd.controller using Guid(b3598631f23ef6e429e0cb6795abb1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b7322af3bc506790f6c9712a9cd0a5') in 0.010778 seconds
+  Import took 0.013628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.863324 seconds.
+  path: Assets/украина лет/New Scene/Куб_003.controller
+  artifactKey: Guid(974ad12c8fbb107468f3664300d53b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/Куб_003.controller using Guid(974ad12c8fbb107468f3664300d53b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6fba7a031811787e14760c67837137a') in 0.009890 seconds
+  Import took 0.013024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000786 seconds.
+  path: Assets/украина лет/New Scene/Куб_003.controller
+  artifactKey: Guid(974ad12c8fbb107468f3664300d53b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Scene/Куб_003.controller using Guid(974ad12c8fbb107468f3664300d53b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6fba7a031811787e14760c67837137a') in 0.003827 seconds
+  Import took 0.006611 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001229 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.375 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1617.
+Total: 2.472400 ms (FindLiveObjects: 0.289600 ms CreateObjectMapping: 0.078600 ms MarkObjects: 2.031700 ms  DeleteObjects: 0.071100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.813882 seconds.
+  path: Assets/украина лет/New Animation.anim
+  artifactKey: Guid(5667bc4bf51ec8d48b5c00ed4eb5ab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Animation.anim using Guid(5667bc4bf51ec8d48b5c00ed4eb5ab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecc729fbf26eda985faf0e2c79dcb62b') in 0.026812 seconds
+  Import took 0.030224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011126 seconds.
+  path: Assets/украина лет/New Animation.anim
+  artifactKey: Guid(5667bc4bf51ec8d48b5c00ed4eb5ab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Animation.anim using Guid(5667bc4bf51ec8d48b5c00ed4eb5ab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecc729fbf26eda985faf0e2c79dcb62b') in 0.004164 seconds
+  Import took 0.007578 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001418 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.375 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1620.
+Total: 2.277700 ms (FindLiveObjects: 0.243700 ms CreateObjectMapping: 0.070000 ms MarkObjects: 1.887200 ms  DeleteObjects: 0.075200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.406880 seconds.
+  path: Assets/украина лет/New Aаnimation.anim
+  artifactKey: Guid(eb499cea764862543a8d4bd5d764061d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Aаnimation.anim using Guid(eb499cea764862543a8d4bd5d764061d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce570992fd6ba6983d3b58977de7934d') in 0.025037 seconds
+  Import took 0.027791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.862202 seconds.
+  path: Assets/украина лет/New Aпnimation.anim
+  artifactKey: Guid(69e0a7d360eac974f9f38a9dffe9ac50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Aпnimation.anim using Guid(69e0a7d360eac974f9f38a9dffe9ac50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5126e7e1c0bc4119b855cde918d49e') in 0.010184 seconds
+  Import took 0.013343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001583 seconds.
+  path: Assets/украина лет/New Aпnimation.anim
+  artifactKey: Guid(69e0a7d360eac974f9f38a9dffe9ac50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Aпnimation.anim using Guid(69e0a7d360eac974f9f38a9dffe9ac50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5126e7e1c0bc4119b855cde918d49e') in 0.004078 seconds
+  Import took 0.006785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.521535 seconds.
+  path: Assets/украина лет/Цилиндр.controller
+  artifactKey: Guid(28dc6416d18dba1409dc4382451d3362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/Цилиндр.controller using Guid(28dc6416d18dba1409dc4382451d3362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '191c4463d0fead42aaf03e3bd5cf47fb') in 0.010951 seconds
+  Import took 0.013949 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001230 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.395 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1623.
+Total: 2.653700 ms (FindLiveObjects: 0.501200 ms CreateObjectMapping: 0.101700 ms MarkObjects: 1.969200 ms  DeleteObjects: 0.079900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001340 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.430 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1626.
+Total: 3.437700 ms (FindLiveObjects: 0.322900 ms CreateObjectMapping: 0.072700 ms MarkObjects: 2.949000 ms  DeleteObjects: 0.091700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.657823 seconds.
+  path: Assets/украина лет/New Animation.anim
+  artifactKey: Guid(5667bc4bf51ec8d48b5c00ed4eb5ab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Animation.anim using Guid(5667bc4bf51ec8d48b5c00ed4eb5ab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419c6c1a416d9e74d0e275b93aee17b6') in 0.016531 seconds
+  Import took 0.019430 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002256 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.367 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 2.510900 ms (FindLiveObjects: 0.247400 ms CreateObjectMapping: 0.070500 ms MarkObjects: 2.114200 ms  DeleteObjects: 0.077400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001161 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.384 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1632.
+Total: 3.597300 ms (FindLiveObjects: 0.268300 ms CreateObjectMapping: 0.071700 ms MarkObjects: 3.150700 ms  DeleteObjects: 0.104700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001201 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.436 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1635.
+Total: 2.787500 ms (FindLiveObjects: 0.270000 ms CreateObjectMapping: 0.068500 ms MarkObjects: 2.347400 ms  DeleteObjects: 0.099700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.951747 seconds.
+  path: Assets/украина лет/New Animation.anim
+  artifactKey: Guid(5667bc4bf51ec8d48b5c00ed4eb5ab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Animation.anim using Guid(5667bc4bf51ec8d48b5c00ed4eb5ab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f10afaeef2035eeb0b05c96ea90ace9') in 0.018464 seconds
+  Import took 0.021481 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001256 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.363 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1638.
+Total: 2.486300 ms (FindLiveObjects: 0.282400 ms CreateObjectMapping: 0.076000 ms MarkObjects: 2.039300 ms  DeleteObjects: 0.086900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.599992 seconds.
+  path: Assets/украина лет/New Animation.anim
+  artifactKey: Guid(5667bc4bf51ec8d48b5c00ed4eb5ab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Animation.anim using Guid(5667bc4bf51ec8d48b5c00ed4eb5ab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd885fad9a38c7bed4b997bcad5558695') in 0.017898 seconds
+  Import took 0.020782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.026286 seconds.
+  path: Assets/украина лет/New Animation.anim
+  artifactKey: Guid(5667bc4bf51ec8d48b5c00ed4eb5ab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/New Animation.anim using Guid(5667bc4bf51ec8d48b5c00ed4eb5ab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd885fad9a38c7bed4b997bcad5558695') in 0.003492 seconds
+  Import took 0.006380 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001134 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.401 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1641.
+Total: 2.315600 ms (FindLiveObjects: 0.230300 ms CreateObjectMapping: 0.077000 ms MarkObjects: 1.925300 ms  DeleteObjects: 0.081100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.697034 seconds.
+  path: Assets/украина лет/Цилиндр 2.controller
+  artifactKey: Guid(dc77911cb14c9b54cb3953d94ecb1057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/украина лет/Цилиндр 2.controller using Guid(dc77911cb14c9b54cb3953d94ecb1057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '868b94645f8c38a456e7e6140842353f') in 0.024534 seconds
+  Import took 0.027571 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001266 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.354 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1644.
+Total: 2.316400 ms (FindLiveObjects: 0.281700 ms CreateObjectMapping: 0.068500 ms MarkObjects: 1.889800 ms  DeleteObjects: 0.075100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001345 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.419 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.5 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1647.
+Total: 2.556600 ms (FindLiveObjects: 0.346300 ms CreateObjectMapping: 0.085500 ms MarkObjects: 2.043000 ms  DeleteObjects: 0.080500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001315 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.351 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.5 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 2.419500 ms (FindLiveObjects: 0.242400 ms CreateObjectMapping: 0.070900 ms MarkObjects: 2.023300 ms  DeleteObjects: 0.081500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 904.965122 seconds.
+  path: Assets/karta dkia leo 1
+  artifactKey: Guid(c79eb775e18228447ab976b974ba845a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta dkia leo 1 using Guid(c79eb775e18228447ab976b974ba845a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '005e00c8a8a436e00b9db07b2ea92de6') in 0.011746 seconds
+  Import took 0.014731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.452819 seconds.
+  path: Assets/3 карта аимка
+  artifactKey: Guid(0dc75bbe2f436b44d9c20179c2ac39b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка using Guid(0dc75bbe2f436b44d9c20179c2ac39b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81e82e557f9d618948bb1319f89d136c') in 0.009995 seconds
+  Import took 0.012805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.153932 seconds.
+  path: Assets/3 карта аимка/bfffrick.png
+  artifactKey: Guid(1da87baf304c8dd4d9138876546123c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/bfffrick.png using Guid(1da87baf304c8dd4d9138876546123c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4fc76a4606ab4cef005bd7a1be491b') in 0.052452 seconds
+  Import took 0.055400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/3 карта аимка/brick.png
+  artifactKey: Guid(e254b57607270c641ad54a3ee42c336b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/brick.png using Guid(e254b57607270c641ad54a3ee42c336b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a350555ad88d1fc5fa2516ae09a879a1') in 0.034038 seconds
+  Import took 0.036918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/3 карта аимка/dark.png
+  artifactKey: Guid(779cc95a43ab561489c033edc3068d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/dark.png using Guid(779cc95a43ab561489c033edc3068d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '979c21914762c923f1f56d9b055e6932') in 0.015474 seconds
+  Import took 0.018238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/3 карта аимка/New Material 2.mat
+  artifactKey: Guid(a3da2c5104dc8b840a2698728dff9a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/New Material 2.mat using Guid(a3da2c5104dc8b840a2698728dff9a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f8d8102ba396391fbcc42b7a0083210') in 0.063125 seconds
+  Import took 0.065821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/3 карта аимка/unggввtiвввtled.fbx
+  artifactKey: Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/unggввtiвввtled.fbx using Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72aa46a0500b8a764400a8a61fa112ec') in 0.083898 seconds
+  Import took 0.086531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/3 карта аимка/concrete.png
+  artifactKey: Guid(ae8b35b0e26841c49be5ee56c15d617f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/concrete.png using Guid(ae8b35b0e26841c49be5ee56c15d617f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '075f074a525011c05f71cd6825f040b1') in 0.014898 seconds
+  Import took 0.018177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/3 карта аимка/New Material 1.mat
+  artifactKey: Guid(561ba83aa6f7b85409913b419a805da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/New Material 1.mat using Guid(561ba83aa6f7b85409913b419a805da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d048cf4e1f2a70b54c04ff855ae4b6') in 0.016144 seconds
+  Import took 0.018936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/3 карта аимка/New Material.mat
+  artifactKey: Guid(e94e1d36df0a31e40ab0e6b0bdcfe9f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/New Material.mat using Guid(e94e1d36df0a31e40ab0e6b0bdcfe9f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295cf926b809c2d12e742d45ac6a6c58') in 0.016827 seconds
+  Import took 0.020090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000605 seconds.
+  path: Assets/3 карта аимка/New Material 3.mat
+  artifactKey: Guid(e7296c1dc90f4824184b7bd024c195de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/New Material 3.mat using Guid(e7296c1dc90f4824184b7bd024c195de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca58f427cacaec5765cbec335a953eb') in 0.016671 seconds
+  Import took 0.019502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.502553 seconds.
+  path: Assets/3 карта аимка/New Scene.unity
+  artifactKey: Guid(51eb0c27760054d489b1ec047e2440c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/New Scene.unity using Guid(51eb0c27760054d489b1ec047e2440c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '974db5f9a2037e456df7994e8839804b') in 0.009867 seconds
+  Import took 0.012719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 269.251083 seconds.
+  path: Assets/3 карта аимка/unggввtiвввtled.fbx
+  artifactKey: Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/unggввtiвввtled.fbx using Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4f8fa03d123875ad515b491017397b8') in 0.041191 seconds
+  Import took 0.044445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.502897 seconds.
+  path: Assets/3 карта аимка/unggввtiвввtled.fbx
+  artifactKey: Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/unggввtiвввtled.fbx using Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0ca82f5bdb661518ee4218fdafac6e') in 0.037849 seconds
+  Import took 0.041374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025299 seconds.
+  path: Assets/3 карта аимка/unggввtiвввtled.fbx
+  artifactKey: Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/unggввtiвввtled.fbx using Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0ca82f5bdb661518ee4218fdafac6e') in 0.037860 seconds
+  Import took 0.041299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.840048 seconds.
+  path: Assets/3 карта аимка/unggввtiвввtled.fbx
+  artifactKey: Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/unggввtiвввtled.fbx using Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1acdd886331886238e398e4092eee3e') in 0.045810 seconds
+  Import took 0.048924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.158124 seconds.
+  path: Assets/3 карта аимка/unggввtiвввtled.fbx
+  artifactKey: Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/unggввtiвввtled.fbx using Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2028f18b83f773c3013eeade12ad337a') in 0.038509 seconds
+  Import took 0.042057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.989771 seconds.
+  path: Assets/3 карта аимка/unggввtiвввtled.fbx
+  artifactKey: Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 карта аимка/unggввtiвввtled.fbx using Guid(16338c50de56d8144bebbebaad08bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d2ae92fa1c7244513ee9cb13caf2dc') in 0.035339 seconds
+  Import took 0.038505 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
