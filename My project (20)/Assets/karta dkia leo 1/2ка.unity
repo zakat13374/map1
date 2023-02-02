@@ -20,8 +20,8 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0.8773585, g: 0.7195788, b: 0.624911, a: 1}
-  m_AmbientEquatorColor: {r: 0.9150943, g: 0.569887, b: 0.28920433, a: 1}
+  m_AmbientSkyColor: {r: 1, g: 0.92561686, b: 0.8820755, a: 1}
+  m_AmbientEquatorColor: {r: 1, g: 0.49999997, b: 0.0990566, a: 1}
   m_AmbientGroundColor: {r: 0.6509434, g: 0.55329394, b: 0.5004895, a: 1}
   m_AmbientIntensity: 0
   m_AmbientMode: 1
@@ -1108,8 +1108,8 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 0.633721, b: 0.25, a: 1}
-  m_Intensity: 0.99
+  m_Color: {r: 1, g: 0.69912577, b: 0.3820755, a: 1}
+  m_Intensity: 0.97
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -1294,7 +1294,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.9433962, g: 0.65116847, b: 0.33374867, a: 1}
+  m_Color: {r: 0.9622642, g: 0.6414804, b: 0.29503384, a: 1}
   m_Intensity: 1.1
   m_Range: 10
   m_SpotAngle: 30
@@ -1397,7 +1397,7 @@ ReflectionProbe:
   m_FarClip: 1000
   m_ShadowDistance: 100
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 1, g: 0.66541046, b: 0.3443396, a: 0}
+  m_BackGroundColor: {r: 1, g: 0.51742744, b: 0.051886797, a: 0}
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -1417,7 +1417,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1633348596}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -592.1, y: 315.83, z: 97.4}
+  m_LocalPosition: {x: -592.1, y: 313.3, z: 97.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1452,7 +1452,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.89
+  m_Intensity: 0.99
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
